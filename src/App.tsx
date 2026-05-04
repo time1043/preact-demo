@@ -1,3 +1,5 @@
+import CounterValue from "./components/CounterValue";
+
 export default function App() {
-  return <div>app</div>;
+  return <CounterValue />;
 }
