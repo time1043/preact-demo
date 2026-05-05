@@ -1,5 +1,5 @@
-import CounterValue from "./components/CounterValue";
+import Counter from "./components/Counter";
 
 export default function App() {
-  return <CounterValue />;
+  return <Counter />;
 }
